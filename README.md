@@ -16,4 +16,4 @@ $response = new Response();
 $response -> json(['name' => 'Andres'],200);
 ```
 
-Alternative : HttpFoundation component the Symfony [url](https://symfony.com/doc/current/components/http_foundation.html) 
+Alternative : HttpFoundation component the Symfony [link](https://symfony.com/doc/current/components/http_foundation.html) 
